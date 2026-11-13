@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Python
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# PyTorch checkpoints and the Shakespeare text (downloaded from Project Gutenberg, not committed)
+*.pt
+shakespeare.txt
+
+# created when log_reg_diabetes.ipynb downloads its dataset
+LAB 2/
