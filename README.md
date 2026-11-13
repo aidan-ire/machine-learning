@@ -27,8 +27,6 @@ jupyter notebook
 
 ## Known issues
 
-- `lab1.ipynb`: the last cell uses `LinearRegression` without importing it. Add
-  `from sklearn.linear_model import LinearRegression` before running that cell.
 - `log_reg_diabetes.ipynb`: the first cell saves the download to `../LAB 2/data/`, which is not this
   folder's name, so running it creates a separate `LAB 2` folder next to this one. The rest of the
   notebook reads from that path and runs normally.
