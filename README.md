@@ -2,10 +2,11 @@
 
 This is self-directed study, not a university module.
 
-| Notebook | Contents |
+| Project | Contents |
 |---|---|
 | [01_linear_regression_gradient_descent/lab1.ipynb](01_linear_regression_gradient_descent/lab1.ipynb) | linear regression on an hours-studied vs scores dataset. The cost function and gradient descent are written from scratch with NumPy, then the fitted line is compared against scikit-learn's `LinearRegression` |
 | [02_logistic_regression_diabetes/log_reg_diabetes.ipynb](02_logistic_regression_diabetes/log_reg_diabetes.ipynb) | logistic regression on the Pima Indians diabetes dataset with a 75/25 train/test split, followed by a confusion matrix heatmap, a classification report and a ROC curve with AUC |
+| [03_char_transformer_shakespeare/](03_char_transformer_shakespeare/) | a character-level GPT-style transformer trained on Shakespeare's complete works, built by following Andrej Karpathy's "Let's build GPT" tutorial. `doc.py` trains it and `generate.py` loads the weights and writes new text |
 
 ## Setup
 

@@ -1,0 +1,40 @@
+2.729188 M parameters
+step 0: train loss 4.6707, val loss 4.6723
+step 500: train loss 1.9553, val loss 1.9843
+step 1000: train loss 1.7074, val loss 1.7901
+step 1500: train loss 1.5932, val loss 1.7081
+step 2000: train loss 1.5196, val loss 1.6570
+step 2500: train loss 1.4686, val loss 1.6162
+step 3000: train loss 1.4321, val loss 1.5867
+step 3500: train loss 1.4050, val loss 1.5718
+step 4000: train loss 1.3771, val loss 1.5459
+step 4500: train loss 1.3647, val loss 1.5355
+step 5000: train loss 1.3482, val loss 1.5210
+step 5500: train loss 1.3304, val loss 1.5180
+step 6000: train loss 1.3223, val loss 1.5057
+step 6500: train loss 1.3116, val loss 1.4988
+step 7000: train loss 1.3072, val loss 1.4993
+step 7500: train loss 1.3003, val loss 1.4907
+step 8000: train loss 1.2905, val loss 1.4831
+step 8500: train loss 1.2922, val loss 1.4828
+step 9000: train loss 1.2795, val loss 1.4703
+step 9500: train loss 1.2801, val loss 1.4612
+	 would have swear, by you,
+Teach nothing with reason of noble,
+And I do peeratry muster it. Give your matter
+Or confession bring them out with mortaliey
+Even a royal. God maid with on my seads.
+
+GLOUCESTRY.
+I thauncestory, but then the King Charact seems or most
+O’ersext, the ears alone-kindness of
+the fruid of sacriful rinal mannel; flatterse at Fift
+THE TALBot IV
+BRUTUS, de in Eveport. A scrifty worth
+Shall citch eight that displease thee horse.
+
+[_Exeunt._]
+
+GIRGRATSHAM.
+Let love you did susp
+Training complete! Saving model to 'model.pth'...
